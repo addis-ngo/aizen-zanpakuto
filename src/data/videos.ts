@@ -2104,4 +2104,68 @@ export const YOUTUBE_VIDEOS: YouTubeVideoItem[] = [
   category: 'op',
   youtubeUrlOrId: 'MqKDozk20eA',
 },
+
+// =========================
+// STEINS;GATE
+// =========================
+
+// Original Series
+{
+  id: 'steinsgate-op-1',
+  title: 'Hacking to the Gate',
+  anime: 'Steins;Gate',
+  category: 'op',
+  youtubeUrlOrId: 'TR3ma_60-m4',
+},
+{
+  id: 'steinsgate-ed-1',
+  title: 'Tokitsukasadoru Juuni no Meiyaku',
+  anime: 'Steins;Gate',
+  category: 'end',
+  youtubeUrlOrId: 'nL2E6q24aQo',
+},
+
+// =========================
+// SOUL EATER
+// =========================
+
+{
+  id: 'souleater-op-1',
+  title: 'Resonance',
+  anime: 'Soul Eater',
+  category: 'op',
+  youtubeUrlOrId: 'zzJ8U8OtEsE',
+},
+
+// =========================
+// PUELLA MAGI MADOKA MAGICA
+// =========================
+
+// TV Series
+{
+  id: 'madoka-op-1',
+  title: 'Connect',
+  anime: 'Puella Magi Madoka Magica',
+  category: 'op',
+  youtubeUrlOrId: 'UmxpKC6F53A',
+},
+
+// =========================
+// THE EMINENCE IN SHADOW - SEASON 1
+// =========================
+
+{
+  id: 'eminence-op-1',
+  title: 'HIGHEST',
+  anime: 'The Eminence in Shadow',
+  category: 'op',
+  youtubeUrlOrId: 'xT7EkRCGO8I',
+},
+{
+  id: 'eminence-ed-1',
+  title: 'Darling in the Night',
+  anime: 'The Eminence in Shadow',
+  category: 'end',
+  youtubeUrlOrId: 'FeCUTTZ_clQ',
+},
 ];
