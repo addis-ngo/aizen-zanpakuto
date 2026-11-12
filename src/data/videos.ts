@@ -2168,4 +2168,19 @@ export const YOUTUBE_VIDEOS: YouTubeVideoItem[] = [
   category: 'end',
   youtubeUrlOrId: 'FeCUTTZ_clQ',
 },
+// Season 2
+{
+  id: 'eminence-op-2',
+  title: 'grayscale dominator',
+  anime: 'The Eminence in Shadow',
+  category: 'op',
+  youtubeUrlOrId: 'LQRbFCAHDUU',
+},
+{
+  id: 'eminence-ed-2',
+  title: 'Polaris in the Night',
+  anime: 'The Eminence in Shadow',
+  category: 'end',
+  youtubeUrlOrId: 'VrDZWSjY8kg',
+},
 ];
